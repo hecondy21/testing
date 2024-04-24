@@ -1,6 +1,6 @@
 ---
 title: Fortigate
-description: 
+description: Tutorial to install Fortigate in Proxmox.
 published: true
 date: 2024-04-24T15:25:06.907Z
 tags: 
