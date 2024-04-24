@@ -2,7 +2,7 @@
 title: Fortigate
 description: 
 published: true
-date: 2024-04-24T10:16:36.373Z
+date: 2024-04-24T10:19:47.041Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-24T09:11:23.573Z
