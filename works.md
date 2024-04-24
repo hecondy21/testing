@@ -1,4 +1,14 @@
 ---
+title: works
+description: 
+published: true
+date: 2024-04-24T10:14:17.567Z
+tags: 
+editor: markdown
+dateCreated: 2024-04-24T09:11:23.573Z
+---
+
+---
 title: Fortigate on Proxmox VM
 description: Guide of installing and configure Fortigate on Proxmox VM
 published: true
@@ -7,6 +17,7 @@ tags: fortigate, firewall, proxmox, vm
 dateCreated: date: 2024-04-23T11:47:03.512Z
 editor: hecondy21
 email: p.sanchez@lazarski.pl
+
 ---
 # Installing an preparing a Fortigate Firewall
 
