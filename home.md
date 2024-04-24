@@ -2,7 +2,7 @@
 title: Home Page
 description: 
 published: true
-date: 2024-04-24T10:52:17.343Z
+date: 2024-04-24T10:55:28.879Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-24T09:12:47.891Z
@@ -25,3 +25,7 @@ I want to everyone learn and be available to do amazing things with this technol
 
 ### Form of pay
 Its free.
+
+- [**Firewalls** _Everyting about firewalls_](/home/firewalls)
+
+{.links-list}
