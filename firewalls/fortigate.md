@@ -2,23 +2,12 @@
 title: Fortigate
 description: 
 published: true
-date: 2024-04-24T10:19:47.041Z
+date: 2024-04-24T15:25:06.907Z
 tags: 
 editor: markdown
-dateCreated: 2024-04-24T09:11:23.573Z
+dateCreated: 2024-04-24T11:30:44.227Z
 ---
 
----
-title: Fortigate on Proxmox VM
-description: Guide of installing and configure Fortigate on Proxmox VM
-published: true
-date: date: 2024-04-23T11:46:24.524Z
-tags: fortigate, firewall, proxmox, vm
-dateCreated: date: 2024-04-23T11:47:03.512Z
-editor: hecondy21
-email: p.sanchez@lazarski.pl
-
----
 # Installing an preparing a Fortigate Firewall
 
 We will need a Fortigate ova, type qcow2. Also it assumes you have a running Proxmox environment and the Fortinet ova. 
