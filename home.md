@@ -2,15 +2,15 @@
 title: Home Page
 description: 
 published: true
-date: 2024-04-24T12:08:35.657Z
+date: 2024-05-08T13:57:46.841Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-24T09:12:47.891Z
 ---
 
 # Home
-Welcome to my local wiki made of Pablo Sánchez Hidalgo. Here you will find everything I have done in [Lazarski](https://www.lazarski.pl/en), and also some interesting things that I have learned while I have been studying.
-This wiki is in English, but It will be available an Spanish option, my mother language. Probably better translated and write.
+Welcome to my local wiki made by Pablo Sánchez Hidalgo. Here you will find everything I have done in [Lazarski](https://www.lazarski.pl/en), and also some interesting things that I had learned while I have been studying.
+This wiki is in English, but it will be in the future, an Spanish version.
 
 ## How it works?
 At your left, you will find some headers and links. This is only to organize myself, but also can help you! You can click in the link that you want and It will redirect you to that zone. 
